@@ -26,3 +26,8 @@ Figure 3 (heatmap) shows bike trips for each hour and weekday. In this figure, t
   <figcaption>Figure 3: Trips by weekday per hours.</figcaption></figure>
 </p> 
 
+Figure 4 (heatmap) shows bike trips for each hour and weekday by gender. The peak times for bike trips are similar to Figure 3 for all gender. Also, most trips are taken by males.
+<p img align="center" width="100%">
+<img width="500" alt="trips_by_gender_per_hour" src="https://user-images.githubusercontent.com/85843401/134984337-d213d650-ffc8-404b-9d2f-1cd52f13145d.png">
+  <figcaption>Figure 4: Trips by gender (Weekday per hour)</figcaption></figure>
+</p> 
