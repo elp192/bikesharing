@@ -29,5 +29,13 @@ Figure 3 (heatmap) shows bike trips for each hour and weekday. In this figure, t
 Figure 4 (heatmap) shows bike trips for each hour and weekday by gender. The peak times for bike trips are similar to Figure 3 for all gender. Also, most trips are taken by males.
 <p img align="center" width="100%">
 <img width="500" alt="trips_by_gender_per_hour" src="https://user-images.githubusercontent.com/85843401/134984337-d213d650-ffc8-404b-9d2f-1cd52f13145d.png">
-  <figcaption>Figure 4: Trips by gender (Weekday per hour)</figcaption></figure>
+  <figcaption>Figure 4: Trips by gender (Weekday per hour).</figcaption></figure>
+</p> 
+
+Figure 5 shows the number of trips by user type, weekday, and gender. It can be seen that male subscribers take most trips during the weekday. The highest number of trips for them are on Thursdays and Fridays. 
+
+ <p img align="center" width="100%">
+ <img width="500" alt="user_trips_by_gender_by_weekday" src="https://user-images.githubusercontent.com/85843401/134984304-a14aa8e0-9e3a-4807-b76e-b0f80a82a579.png">
+  <figcaption>Figure 5: User trips by gender by weekday. </figcaption></figure>
+</p> 
 </p> 
