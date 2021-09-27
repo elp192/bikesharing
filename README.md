@@ -39,9 +39,17 @@ Figure 5 shows the number of trips by user type, weekday, and gender. It can be 
   <figcaption>Figure 5: User trips by gender by weekday. </figcaption></figure>
 </p> 
 
-Figure 6 shows the bike stations are in the city center. Also, strat and stop locations have similar distributions.
+Figure 6 shows the bike stations are in the city center. Also, start and stop locations have similar distributions, meaning riders return the bikes to the locations they check out.
 <p img align="center" width="100%">
  <img width="400" alt="top_starting_locations" src="https://user-images.githubusercontent.com/85843401/134984758-1a561183-6cc6-40d6-92e7-bcb351e5b344.png">
  <img width="400" alt="top_ending_location" src="https://user-images.githubusercontent.com/85843401/134984768-e573def7-4194-4a16-a4d9-8344154c5329.png"> 
   <figcaption>Figure 6: Top starting locations and top stoping locations. </figcaption></figure>
 </p> 
+
+## Summary
+Summary of the observations are as follows:<br>
+- Males' preference in using the ridesharing service is significantly higher than females. So, it is important to investigate why females are less reluctant to use ridesharing services for commuting.<br>
+- The ridesharing stations are located in the city center; it is worth to study that whether there is any demand to drop the bikes to other parts of the city or not. 
+Additional visualizations can be created for future analysis:<br>
+- Visualization of the number of riders by gender for each month of the year:  Information about demands for using ridesharing services in different months of the year helps the investors to have a better decision for investing.<br>
+- Visualization of the most and less popular starting and ending locations on weekdays and weekends: This information helps the managers to change the hours of operation for each station based on the demands.
