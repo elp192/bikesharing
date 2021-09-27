@@ -46,6 +46,8 @@ Figure 6 shows the bike stations are in the city center. Also, start and stop lo
   <figcaption>Figure 6: Top starting locations and top stoping locations. </figcaption></figure>
 </p> 
 
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/elnaz.pouranbarani/viz/Bikesharingproject/Story1)<br>
+
 ## Summary
 Summary of the observations are as follows:<br>
 - Males' preference in using the ridesharing service is significantly higher than females. So, it is important to investigate why females are less reluctant to use ridesharing services for commuting.<br>
