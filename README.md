@@ -38,4 +38,10 @@ Figure 5 shows the number of trips by user type, weekday, and gender. It can be 
  <img width="500" alt="user_trips_by_gender_by_weekday" src="https://user-images.githubusercontent.com/85843401/134984304-a14aa8e0-9e3a-4807-b76e-b0f80a82a579.png">
   <figcaption>Figure 5: User trips by gender by weekday. </figcaption></figure>
 </p> 
+
+Figure 6 shows the bike stations are in the city center. Also, strat and stop locations have similar distributions.
+<p img align="center" width="100%">
+ <img width="400" alt="top_starting_locations" src="https://user-images.githubusercontent.com/85843401/134984758-1a561183-6cc6-40d6-92e7-bcb351e5b344.png">
+ <img width="400" alt="top_ending_location" src="https://user-images.githubusercontent.com/85843401/134984768-e573def7-4194-4a16-a4d9-8344154c5329.png"> 
+  <figcaption>Figure 6: Top starting locations and top stoping locations. </figcaption></figure>
 </p> 
