@@ -14,8 +14,15 @@ Figure 1 shows time duration that riders check out the bikes. As can be seen, du
  <figcaption>Figure 1: Checkout times by users. </figcaption></figure>
 </p> 
 
-Figure 2 shows the time duration that bikes are checked out by different gender. As can be seen, for all gender, most bikes are checked out during the first five minutes. Also, most bikes (about 110k) are checked out by males, which is approximately 3.5 times more than females.
+Figure 2 shows the time duration that bikes are checked out by different gender. As can be seen, for all gender, most bikes are checked out during the first five minutes. Also, most bikes (about 110k) are checked out by males, which is approximately 3.5 times more than bikes that females check out.
 <p img align="center" width="100%">
   <img width="500" alt="checkout_times_by_gender" src="https://user-images.githubusercontent.com/85843401/134982974-99eb8611-02c0-4591-ad9e-cf9dfc88b09b.png">
   <figcaption>Figure 2: Checkout times by users and gender. </figcaption></figure>
+</p>  
+
+Figure 3 (heatmap) shows bike trips for each hour and weekday. In this figure, the color represents the number of bikes. As can be seen, most riders take the trip at the weekend between 10 AM to 7 PM. From Monday to Friday, the peaking hours for riding are 6 AM to 8 AM and 5 PM to 7 PM.
+<p img align="center" width="100%">
+  <img width="500" alt="trips_by_weekday_per_hour" src="https://user-images.githubusercontent.com/85843401/134983008-347981a5-ba0e-4073-bbd7-c883dcb1ca1d.png">
+  <figcaption>Figure 3: Trips by weekday per hours.</figcaption></figure>
 </p> 
+
