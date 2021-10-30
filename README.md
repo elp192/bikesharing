@@ -50,9 +50,9 @@ Figure 6 shows the bike stations are in the city center. Also, start and stop lo
 
 ## Summary
 Summary of the observations are as follows:<br>
-- Males' preference in using the ridesharing service is significantly higher than females. So, it is important to investigate why females are less reluctant to use ridesharing services for commuting.<br>
-- The ridesharing stations are located in the city center; it is worth to study that whether there is any demand to drop the bikes to other parts of the city or not.<br>
+- Males' preference in using the bikesharing service is significantly higher than females. So, it is important to investigate why females are less reluctant to use bikesharing services for commuting.<br>
+- The bikesharing stations are located in the city center; it is worth to study that whether there is any demand to drop the bikes to other parts of the city or not.<br>
 
 Additional visualizations can be created for future analysis:<br>
-- Visualization of the number of riders by gender for each month of the year:  Information about demands for using ridesharing services in different months of the year helps the investors to have a better decision for investing.<br>
+- Visualization of the number of riders by gender for each month of the year:  Information about demands for using bikesharing services in different months of the year helps the investors to have a better decision for investing.<br>
 - Visualization of the most and less popular starting and ending locations on weekdays and weekends: This information helps the managers to change the hours of operation for each station based on the demands.
